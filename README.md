@@ -1,5 +1,8 @@
 # OpenGL_Programming
 
+Ins and outs
+![image](https://user-images.githubusercontent.com/59910227/84580515-958e5980-ae12-11ea-9b93-62559973a878.png)
+
 WireFrame mode
 ![image](https://user-images.githubusercontent.com/59910227/84565423-0fd3c500-ada4-11ea-96ed-8a6bc104b4d7.png)
 
