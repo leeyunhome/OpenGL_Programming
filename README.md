@@ -1,5 +1,8 @@
 # OpenGL_Programming
 
+Uniforms
+![image](https://user-images.githubusercontent.com/59910227/84580971-5e6e7700-ae17-11ea-84ac-20fa28c89b9c.png)
+
 Ins and outs
 ![image](https://user-images.githubusercontent.com/59910227/84580515-958e5980-ae12-11ea-9b93-62559973a878.png)
 
