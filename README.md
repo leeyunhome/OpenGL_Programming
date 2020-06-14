@@ -1,5 +1,8 @@
 # OpenGL_Programming
 
+Applying textures
+![image](https://user-images.githubusercontent.com/59910227/84587934-50901480-ae5e-11ea-8442-14dbab92b46c.png)
+
 More attributes
 ![image](https://user-images.githubusercontent.com/59910227/84582578-b06bc880-ae28-11ea-8289-66e02db8165b.png)
 
