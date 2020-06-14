@@ -1,5 +1,8 @@
 # OpenGL_Programming
 
+Texture Units
+![image](https://user-images.githubusercontent.com/59910227/84590175-3448a380-ae6f-11ea-9491-8dd1cec5c591.png)
+
 Applying textures
 ![image](https://user-images.githubusercontent.com/59910227/84587934-50901480-ae5e-11ea-8442-14dbab92b46c.png)
 
