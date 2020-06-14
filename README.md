@@ -1,5 +1,8 @@
 # OpenGL_Programming
 
+More attributes
+![image](https://user-images.githubusercontent.com/59910227/84582578-b06bc880-ae28-11ea-8289-66e02db8165b.png)
+
 Uniforms
 ![image](https://user-images.githubusercontent.com/59910227/84580971-5e6e7700-ae17-11ea-84ac-20fa28c89b9c.png)
 
